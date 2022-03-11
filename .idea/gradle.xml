@@ -9,7 +9,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/2" />
+            <option value="$PROJECT_DIR$/José-Pedro-GOMES-TEIXEIRA_Prescilia-AIT-OUARAB_proj1" />
             <option value="$PROJECT_DIR$/lab00" />
+            <option value="$PROJECT_DIR$/proj1" />
+            <option value="$PROJECT_DIR$/proj101" />
           </set>
         </option>
       </GradleProjectSettings>
